@@ -7,7 +7,9 @@ sections:
     background_image: images/header.jpg
     background_image_opacity: 80
     content: |
-      # Sol Lotus. Ancient Wisdom with a modern delivery
+      # Sol Lotus 
+
+      # Ancient Wisdom with a modern delivery
 
       Smoke like an egyptian
     actions:
